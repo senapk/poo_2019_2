@@ -3,12 +3,14 @@
 ## Links
 - [Youtube]()
 - [Hangouts](https://hangouts.google.com/group/NQ6XPZbRo6J9uHR68)
+- [Notas]()
+## Recursos
 - [Modelo para o seu repositório do Git](https://github.com/senapk/exemplo_repositorio_disciplina)
 - [Apostila Caelum](https://www.caelum.com.br/apostila-java-orientacao-objetos/)
 - [Java Gafanhoto](https://www.youtube.com/playlist?list=PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY)
 
 ## S01E01 - Boas Vindas
-- [ ] Leia a apostila. Capítulo 1 e 2.
+- [ ] Leia a apostila. Capítulo 1, 2 e 3.
 - [ ] Instale o git
 - [ ] Clone esse repositório da disciplina
 - [ ] Coloque/Atualize sua foto no Si3
