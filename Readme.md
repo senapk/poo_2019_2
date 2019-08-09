@@ -19,11 +19,14 @@
 - [ ] Rode o seu primeiro Hello World
 - [ ] Assista o primeiro vídeo da Playlist Gafanhoto
 
-## S01E02 - Introdução Java
+## S01E02 - Prática de git
 - [ ] Criar ser repositório no github
+- [ ] Treine os comandos básicos de alteração e envio
+- [ ] Praticar!
+
+## S02E01 - Introdução Java
 - [ ] Eclipse
 - [ ] Primeira Classe
 - [ ] Métodos e Atributos ao invés de funções e variáveis
 - [ ] Método Main
 - [ ] O operador new
-- [ ] Praticar!

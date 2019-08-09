@@ -1,22 +1,21 @@
 ## Links para estudo
 - [Guia Rápido](https://rogerdudler.github.io/git-guide/index.pt_BR.html)
+- [Git book](https://pt.wikiversity.org/wiki/Git_B%C3%A1sico)
 
 
 ### Ações
-- Criar um repositório local em uma pasta 
-    - `git init`
 - Clonar um repositório externo
     - `git clone url`
 - Atualizar a sua pasta do repositório local com as modificações do repositório externo
     - `git pull origin master`
 
-
-
 ## Fluxo de trabalho
 
-Seus repositórios locais consistem em três "árvores" mantidas pelo git. A primeira delas é sua `Working Directory` que contém os arquivos vigentes. A segunda `Index` que funciona como uma área temporária e finalmente a `HEAD` que aponta para o último `commit` (confirmação) que você fez.
+Seus repositórios locais consistem em três "árvores" mantidas pelo git. A primeira delas é sua `Working Directory` que contém os arquivos vigentes. A segunda `Index` (stage) que funciona como uma área temporária e finalmente a `HEAD` (repositório local) que aponta para o último `commit` (confirmação) que você fez.
 
 ![](trees.png)
+
+![https://www.cureffi.org/2014/08/27/git-tutorial](diagrama.png)
 
 
 ## Adicionar & Confirmar
@@ -44,5 +43,7 @@ Seus repositórios locais consistem em três "árvores" mantidas pelo git. A pri
 ## Ignorando arquivos
 - Crie um arquivo `.gitignore` no root no repositório e adicione quais tipos de arquivos você não quer que sejam rastreados pelo git.
 
-
+## Desfazendo alterações e vendo diferenças
+- Pode pode ver as diferenças com o comando `git diff nome_do_arquivo`.
+- Pode desfazer as últimas alterações utilizando `git checkout -- nome_do_arquivo`.
 
