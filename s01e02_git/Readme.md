@@ -1,6 +1,7 @@
 ## Links para estudo
 - [Guia Rápido](https://rogerdudler.github.io/git-guide/index.pt_BR.html)
 - [Git book](https://pt.wikiversity.org/wiki/Git_B%C3%A1sico)
+- [Vídeo Aulas]("https://www.youtube.com/playlist?list=PLInBAd9OZCzzHBJjLFZzRl6DgUmOeG3H0") Assista dos vídeos de 1 até o 4.
 
 
 ### Ações
