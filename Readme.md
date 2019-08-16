@@ -56,10 +56,11 @@
 - Atividades para semana que vem
     - [ ] Escolha dois objetos reais e dois objetos virtuais
         - [ ] Descreva os atributos e métodos dele
-        - [ ] Suba para sua pasta s02e01 do seu git
+        - [ ] Suba para sua pasta s02e02 do seu git
             - se fizer em papel, envie a foto.
-    - Se tiver dificuldade ou tiver faltado, assista os 3 primeiros vídeos do curso de git nos links da descrição.
-    - [ ] Escolha um dos objetos que você criou e faça um código java para ele utilizando prints nos métodos.
-    - [ ] Suba o seu projeto para s02e02 no seu git
+    - Se tiver dificuldade com git ou tiver faltado, assista os 3 primeiros vídeos do curso de git nos links da descrição.
+    - [ ] Escolha um dos objetos que você criou e faça um código java para manipulá-lo.
+        - Você pode utilizar a moto que fizemos em sala como referência.
+    - [ ] Suba o seu projeto para pasta s02e02 no seu git.
   
 
