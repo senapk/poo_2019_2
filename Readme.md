@@ -3,7 +3,7 @@
 ## Links
 - [Nosso canal do Youtube](https://www.youtube.com/watch?v=UIjJNcqg9pA&list=PLqwyjBSVOHRz424LLLdudcK3Y7JV8_w8h)
 - [Hangouts](https://hangouts.google.com/group/NQ6XPZbRo6J9uHR68)
-- [Planilha de Notas]()
+- [Planilha de Notas](https://docs.google.com/spreadsheets/d/1LsIgnATOwCNqfKgbTJJtElALDojt03pFumq59kEUyqk/edit#gid=0)
 
 ## Recursos Java
 - [Modelo para o seu repositório do Git](https://github.com/senapk/exemplo_repositorio_disciplina)
@@ -54,7 +54,7 @@
     - this
     - sysout
 - Atividades para semana que vem
-    - [ ] Escolha dois objetos reais e dois objetos virtuais
+    - [ ] Escolha dois objetos reais e dois objetos abstratos
         - [ ] Descreva os atributos e métodos dele
         - [ ] Suba para sua pasta s02e02 do seu git
             - se fizer em papel, envie a foto.
@@ -62,5 +62,24 @@
     - [ ] Escolha um dos objetos que você criou e faça um código java para manipulá-lo.
         - Você pode utilizar a moto que fizemos em sala como referência.
     - [ ] Suba o seu projeto para pasta s02e02 no seu git.
+
+## S03E01 - Treino Classes e Contrutores
+- Git
+    - git push origin master --force
+    - git pull origin master --force
+- Estrutura de arquivos em Java
+    - pacotes são pastas que organizam arquivos e acessos
+- Fazendo o projeto do ventilador
+- [ ] Assista o vídeo sobre visibilidade Video 6
+    - [VIDEO](https://www.youtube.com/watch?v=jFI-qqitzwk&list=PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY&index=6)
+- [ ] Conclua o projeto do ventilador
+    - [ ] Faça um menu interativo
+
+## S03E02
+- Visibilidade e Acesso.
+- Entrada e Saída.
+- Conversão entre tipos.
+- Quebrando strings em vetores de Strings.
+- Manipulando vetores.
   
 
