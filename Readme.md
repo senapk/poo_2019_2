@@ -76,10 +76,11 @@
     - [ ] Faça um menu interativo
 
 ## S03E02
-- Visibilidade e Acesso.
 - Entrada e Saída.
 - Conversão entre tipos.
 - Quebrando strings em vetores de Strings.
 - Manipulando vetores.
   
-
+## S04E01
+- Modificadores e Métodos especiais
+- Entrega do primeiro projeto - Base: Ventilador
