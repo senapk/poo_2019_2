@@ -1,0 +1,15 @@
+show
+	npass=0, car=0, km = 0
+voar 10
+	nao gosto de voar sozinho
+subir 1
+voar 10
+	estou triste
+carinho 1
+voar 10
+	voando pelas nuvens
+show
+	npass=1, car=0, km = 10
+subir 10
+	nao cabe meu querido
+subir 1
