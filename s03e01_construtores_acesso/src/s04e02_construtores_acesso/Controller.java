@@ -6,7 +6,7 @@ public class Controller {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
 		String line;
-		Carro carro = new Carro("", 0);
+		Carro carro = new Carro();
 		while(true) {
 			line = scanner.nextLine();
 			String vet[] = line.split(" ");

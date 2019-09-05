@@ -14,6 +14,12 @@ public class Carro {
 		this.nPass = 0;
 	}
 	
+	public Carro() {
+		this.nome = "";
+		this.nMaxPass = 5;
+		this.nPass = 0;
+	}
+	
 	public void setMotor(Motor motor) {
 		this.motor = motor;
 	}
