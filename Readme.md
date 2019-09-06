@@ -82,5 +82,50 @@
 - Manipulando vetores.
   
 ## S04E01
-- Modificadores e Métodos especiais
 - Entrega do primeiro projeto - Base: Ventilador
+
+## S04E02
+- Construtores
+- Carro
+
+## S05E01
+- Getters and Setters, modificadores de acesso
+- Exercício Caelum 5.8
+
+## S05E02
+- Getters and Setters, modificadores de acesso
+- Vídeo 9, 10, 11, 12
+
+
+
+## [Curso de POO](https://www.youtube.com/playlist?list=PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY)
+- 01 Curso POO Teoria #01a - O que é Programação Orientada a Objetos
+- 02 Curso POO Java   #01b - Instalando o JDK e NetBeans
+- 03 Curso POO Teoria #02a - O que é um Objeto?
+- 04 Curso POO Java   #02b - Criando Classes e Objetos em Java
+- 06 Curso POO Teoria #03a - O que é Visibilidade em um Objeto?
+- 07 Curso POO Java   #03b - Configurando Visibilidade de Atributos e Métodos
+- 08 Curso POO Teoria #04a - Métodos Especiais
+- 09 Curso POO Java   #04b - Métodos Getter, Setter e Construtor
+- 10 Curso POO Teoria #05a - Exemplo Prático com Objetos
+- 11 Curso POO Java   #05b - Exemplo Prático em Java
+- 12 Curso POO Teoria #06a - Pilares da POO: Encapsulamento
+- 13 Curso POO Java   #06b - Encapsulamento
+- 14 Curso POO Teoria #07a - Relacionamento entre Classes
+- 15 Curso POO Java   #07b - Objetos Compostos em Java
+- 16 Curso POO teoria #08a - Relacionamento de Agregação
+- 17 Curso POO Java   #08b - Agregação entre Objetos com Java
+- 18 Curso POO Teoria #09  - Exercícios de POO
+- 19 Curso POO Java   #09b - Exercício prático POO em Java
+- 20 Curso POO Teoria #10a - Herança (Parte 1)
+- 21 Curso POO Java   #10b - Herança (Parte 1)
+- 22 Curso POO Teoria #11a - Herança (Parte 2)
+- 23 Curso POO Java   #11b - Herança (Parte 2)
+- 24 Curso POO Teoria #12a - Conceito Polimorfismo (Parte 1)
+- 25 Curso POO Java   #12b - Polimorfismo em Java (Parte 1)
+- 26 Curso POO Teoria #13a - Conceito Polimorfismo (Parte 2)
+- 27 Curso POO Java   #13b - Polimorfismo Sobrecarga(Parte 2)
+- 28 Curso POO Teoria #14a - Exercícios de POO (Parte 2)
+- 29 Curso POO Java   #14b - Projeto Final em Java (Parte 1)
+- 30 Curso POO Teoria #15a - Exercícios de POO (Parte 3)
+- 31 Curso POO Java   #15b - Projeto Final em Java (Parte 2)
