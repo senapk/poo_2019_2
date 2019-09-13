@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="14.3.0">
+  <zoom_level>13</zoom_level>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>65</x>
+      <y>130</y>
+      <w>273</w>
+      <h>247</h>
+    </coordinates>
+    <panel_attributes>**Contato**
+--
+- nome: String
+- fones: Fone[]
+--
++ get e set nome
++ addFone(fone: Fone): void
++ rmFone(index: int): void
++ getFone(index: int): Fone
++ getFones(): Fone[]</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>364</x>
+      <y>130</y>
+      <w>299</w>
+      <h>169</h>
+    </coordinates>
+    <panel_attributes>**Fone**
+--
+- id: String
+- num: String
+--
++ Fone(id, num)
++ gets e sets
++ validarFone(): boolean
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+</diagram>
