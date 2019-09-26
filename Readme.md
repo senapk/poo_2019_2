@@ -96,9 +96,12 @@
 - Getters and Setters, modificadores de acesso
 - Vídeo 9, 10, 11, 12
 
-
+## S08E01
+- Instalar JavaFx e Scene Builder Eclipse
+- https://o7planning.org/en/10619/install-efxclipse-into-eclipse
 
 ## [Curso de POO](https://www.youtube.com/playlist?list=PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY)
+
 - 01 Curso POO Teoria #01a - O que é Programação Orientada a Objetos
 - 02 Curso POO Java   #01b - Instalando o JDK e NetBeans
 - 03 Curso POO Teoria #02a - O que é um Objeto?
