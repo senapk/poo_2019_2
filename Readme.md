@@ -3,7 +3,7 @@
 ## Links
 - [Nosso canal do Youtube](https://www.youtube.com/watch?v=UIjJNcqg9pA&list=PLqwyjBSVOHRz424LLLdudcK3Y7JV8_w8h)
 - [Hangouts](https://hangouts.google.com/group/NQ6XPZbRo6J9uHR68)
-- [Planilha de Notas](https://docs.google.com/spreadsheets/d/1LsIgnATOwCNqfKgbTJJtElALDojt03pFumq59kEUyqk/edit#gid=0)
+- [Planilha de Notas](https://docs.google.com/spreadsheets/d/1hoBR_HJw-QYHLuBLSUuKctvK8yhYp1Q944f34NQ8rog/edit#gid=0)
 
 ## Recursos Java
 - [Modelo para o seu repositório do Git](https://github.com/senapk/exemplo_repositorio_disciplina)
