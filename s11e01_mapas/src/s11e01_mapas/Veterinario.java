@@ -1,34 +1,34 @@
 package s11e01_mapas;
 
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
 import java.util.TreeMap;
 
-class Repositorio <Tranqueira>{
-	Map<String, Tranqueira> dados;
+class Repositorio <T>{
+	Map<String, T> dados;
 	String nametype;
 	
 	public Repositorio(String nametype) {
-		dados = new TreeMap<String, Tranqueira>();
+		dados = new TreeMap<String, T>();
 		this.nametype = nametype;
 	}
-	
-	public void add(String key, Tranqueira data) {
-		Tranqueira t = dados.get(key);
+	public void add(String key, T data) {
+		T t = dados.get(key);
 		if(t == null)
 			dados.put(key, data);
 		else
 			throw new RuntimeException(nametype + " " + key + " ja existe");
 	}
-	public Tranqueira get(String key) {
-		Tranqueira t = dados.get(key);
+	public T get(String key) {
+		T t = dados.get(key);
 		if(t == null)
 			throw new RuntimeException(nametype + " " + key + " nao existe");
 		return t;
 	}
-	public ArrayList<Tranqueira> getAll(){
-		ArrayList<Tranqueira> out = new ArrayList<Tranqueira>();
+	public ArrayList<T> getAll(){
+		ArrayList<T> out = new ArrayList<T>();
 		for(String key : dados.keySet())
 			out.add(dados.get(key));
 		return out;
@@ -94,6 +94,24 @@ class Clinica{
 public class Veterinario {
 	
 	public static void main(String[] args) {
+		ArrayList<Integer> guardadorDeInteiros = new ArrayList<Integer>();
+		Map<String, Integer> mapa = new HashMap<String, Integer>;
+		mapa.put("um", 1);
+		mapa.put("dois", 2);
+		Integer integer = mapa.get("um");
+		if(integer == null)
+			System.out.println(integer); //1
+		mapa.get("tres");
+		
+		vender(Pet, Servico)
+
+		venda(usuarios.get(nome).pets.get(pet), servicos.get(servico));
+		
+		
+		
+		
+		
+		
 		Clinica clinica = new Clinica();
 		Scanner scanner = new Scanner(System.in);
 		while(true) {
